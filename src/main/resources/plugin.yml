@@ -1,0 +1,4 @@
+name: AnvilCustomFix
+version: 1.0
+main: com.custom.anvilfix.AnvilFixPlugin
+api-version: '1.21'
